@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.carbon.now.eclipse.feature_0.1.1.alpha.jar" id="com.carbon.now.eclipse.feature" version="0.1.1.alpha">
+      <category name="carbon.now.eclipse"/>
+   </feature>
+   <category-def name="carbon.now.eclipse" label="Carbon for Eclipse"/>
+</site>
